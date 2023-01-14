@@ -5,7 +5,7 @@
 
 <h2 align="center"> Who am I? </h3>
 
-I am a temporal being living in a "programmed" universe a small remnant of time, just trying to conquer my endorphin, dopamine, serotonin and oxytocin.
+I am a temporal being, living in a "programmed" universe, in a small remnant of time, just trying to conquer my endorphin, dopamine, serotonin and oxytocin.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gui-moura-oliveira&label=Profile%20views&color=0e75b6&style=flat" alt="gui-moura-oliveira" /> </p>
 
