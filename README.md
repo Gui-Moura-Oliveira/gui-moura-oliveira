@@ -11,3 +11,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-moura-oliveira&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-moura-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/gui-moura-oliveira/gui-moura-oliveira/blob/output/github-contribution-grid-snake.svg)
