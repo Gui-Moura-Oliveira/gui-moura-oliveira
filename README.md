@@ -1,58 +1,12 @@
-### 
-
-<h1 align="center" > What is real? </h1>@@
-
-<h3 align="center"> Designer of a spiral galaxy </h3>
-
-<h2 align="center"> Who am I? </h3>
-
-I am a temporal being, living in a "programmed" universe, in a small remnant of time, just trying to conquer my endorphin, dopamine, serotonin and oxytocin.
-
-UniverseSimulation.c
+#  About Me:
+### <br><br><h1 align="center" > What is real? </h1>@@<br><br><h3 align="center"> Designer of a spiral galaxy </h3><br><br><h2 align="center"> Who am I? </h3><br><br>I am a temporal being, living in a "programmed" universe, in a small remnant of time, just trying to conquer my endorphin, dopamine, serotonin and oxytocin.<br><br>UniverseSimulation.c<br><br>struct universe{<br>    <br>    int age: 13.799.000.000 + rand() % &;<br>   <br>    int diameterPossiblyInfinite: (91.000.000.000, "light years");<br><br>    char dimension: ["height", "depth", "width", "time"];<br><br>    char location: ("BRAZIL");<br>    };<br><br><br>academicEducation(int);<br><br>void main(){<br><br>char human = "Guilherme De Moura Olivera";<br><br>if (human.study ==  "Systems analysis and development"){<br><br>academicEducation.start(2022.02);<br><br>}<br><br>for (i = 0; project.end != sospet.end; i++)<br>{<br>    while (project.continue != human.universityDegree )<br>    {<br>        project.update++;<br>    }<br>}<br><br><br>phase.now = ("centroDe Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura - CEPAGRI/UNICAMP");<br><br><br>academicEducation.end(2024.06);<br><br>printf("%d%d:%d%d:%d%d", academicEducation.duration);<br><br>}<br><br><img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-782.gif" alt=""><br><br> 
 
 
-struct universe{
-    
-    int age: 13.799.000.000 + rand() % &;
-   
-    int diameterPossiblyInfinite: (91.000.000.000, "light years");
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gui-moura-oliveira&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gui-moura-oliveira&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-moura-oliveira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-    char dimension: ["height", "depth", "width", "time"];
-
-    char location: ("BRAZIL");
-    };
-
-
-academicEducation(int);
-
-void main(){
-
-char human = "Guilherme De Moura Olivera";
-
-if (human.study ==  "Systems analysis and development"){
-
-academicEducation.start(2022.02);
-
-}
-
-for (i = 0; project.end != sospet.end; i++)
-{
-    while (project.continue != human.universityDegree )
-    {
-        project.update++;
-    }
-}
-
-
-phase.now = ("centroDe Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura - CEPAGRI/UNICAMP");
-
-
-academicEducation.end(2024.06);
-
-printf("%d%d:%d%d:%d%d", academicEducation.duration);
-
-}
-
-<img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-782.gif" alt="">
-
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
