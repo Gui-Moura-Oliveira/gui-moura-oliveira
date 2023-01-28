@@ -26,13 +26,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gui/gui/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/982c37e8f0295fee58694f3281c34e25e51ac15549152a8597a64098bee041e6/68747470733a2f2f7777772e6963656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31312f6963656769662d3738322e676966"  />
-</div>
 
 ###
 
